@@ -1,4 +1,46 @@
 #EXTM3U
+#EXTINF:-1,LAS ESTRELLAS MX
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1,LAS ESTRELLAS MX -1HR
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1,LAS ESTRELLAS MX -2HR
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1,LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 ,CANAL 5
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 ,CANAL 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 ,AZTECA 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 ,AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 ,NU9VE
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 ,NU9VE
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 ,MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1,4 GDL
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+#EXTINF:-1,8 MTY
+https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+#EXTINF:-1,UNICABLE
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1,UNIVISION
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1,UNIVISION 24/7
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1,FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1,FORO TV
+https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
+#EXTINF:-1,N+ MEDIA
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1,N+ MEDIA
+https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
+#EXTINF:-1,N+ GDL
+https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1,A&E HD
 http://190.90.154.73:8080/play/a00o/index.m3u8
 #EXTINF:-1,AMC
@@ -141,38 +183,12 @@ http://190.90.154.73:8080/play/a04d/index.m3u8
 http://190.90.154.73:8080/play/a07d/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://190.90.154.73:8080/play/a05y/index.m3u8
-#EXTINF:-1,Nuestra Tele
-http://190.90.154.73:8080/play/a07v/index.m3u8
-#EXTINF:-1,Panamericana
-http://190.90.154.73:8080/play/a00c/index.m3u8
-#EXTINF:-1,Paramount Channel
-http://190.90.154.73:8080/play/a068/index.m3u8
-#EXTINF:-1,Paramount HD
-http://190.90.154.73:8080/play/a03i/index.m3u8
-#EXTINF:-1,Pasiones
-http://190.90.154.73:8080/play/a09f/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://190.90.154.73:8080/play/a01t/index.m3u8
-#EXTINF:-1,RAI
-http://190.90.154.73:8080/play/a08k/index.m3u8
-#EXTINF:-1,RCN
-http://190.90.154.73:8080/play/a07u/index.m3u8
-#EXTINF:-1,RCN HD
-http://190.90.154.73:8080/play/a02z/index.m3u8
-#EXTINF:-1,REC TV
-http://190.90.154.73:8080/play/a05l/index.m3u8
-#EXTINF:-1,RTS
-http://190.90.154.73:8080/play/a037/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://190.90.154.73:8080/play/a00z/index.m3u8
 #EXTINF:-1,STAR TVE
 http://190.90.154.73:8080/play/a064/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://190.90.154.73:8080/play/a055/index.m3u8
-#EXTINF:-1,Seæal Colombia
-http://190.90.154.73:8080/play/a07t/index.m3u8
-#EXTINF:-1,Seæal Colombia HD
-http://190.90.154.73:8080/play/a08y/index.m3u8
 #EXTINF:-1,Sony
 http://190.90.154.73:8080/play/a06x/index.m3u8
 #EXTINF:-1,Sony HD
@@ -207,8 +223,6 @@ http://190.90.154.73:8080/play/a025/index.m3u8
 http://190.90.154.73:8080/play/a01e/index.m3u8
 #EXTINF:-1,TVN HD
 http://190.90.154.73:8080/play/a01r/index.m3u8
-#EXTINF:-1,Azteca 1
-https://mdstrm.com/live-stream-gdai/609b243156cca108312822a6/linear/hls/pa/event/ZiyeO1LFRfG1k2-GZ5TgEg/stream/91460ac6-a00b-446b-a1fe-812fc64766ad:TUL/master.m3u8?uid=yHDTxVbDYwwT7k9KYhmaIZ8KbJoAs9OI&sid=SZJmJUkZhK9K8sN3ObZe0PR2Qon9rYBc&pid=KyZlmSWhlGF3QNtoqJ4MRCtlzRLo570x&an=screen&at=web-app&av=v5.2.401&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=938x528&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://190.90.154.73:8080/play/a02q/index.m3u8
 #EXTINF:-1,Universal
@@ -221,7 +235,3 @@ http://190.90.154.73:8080/play/a00q/index.m3u8
 http://190.90.154.73:8080/play/a00w/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://190.90.154.73:8080/play/a03l/index.m3u8
-#EXTINF:-1,CAMARAS PUENTES INTERNACIONAL
-https://s85.ipcamlive.com/streams/55knrw9wc8xojzvry/stream.m3u8
-#EXTINF:-1,CAMARAS PUENTE INTERNACIONAL DEL RIO
-https://s97.ipcamlive.com/streams/61d2uub80yyjsqrik/stream.m3u8
