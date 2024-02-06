@@ -11,6 +11,8 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 ,CANAL 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 ,AZTECA Uno
+https://mdstrm.com/live-stream-gdai/609b243156cca108312822a6/linear/hls/pa/event/ZiyeO1LFRfG1k2-GZ5TgEg/stream/571e00be-d612-4cb4-961f-d5d444d7aff6:CHS/master.m3u8
 #EXTINF:-1 ,AZTECA 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 ,AZTECA 7 3
