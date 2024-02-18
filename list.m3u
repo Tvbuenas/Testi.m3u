@@ -23,8 +23,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 ,AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics", DISTRITO COMEDIA
-#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 , DISTRITO COMEDIA
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 ,NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
@@ -246,3 +245,7 @@ http://190.90.154.73:8080/play/a00q/index.m3u8
 http://190.90.154.73:8080/play/a00w/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://190.90.154.73:8080/play/a03l/index.m3u8
+#EXTINF:-1 , TUDN
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1 , AFIZZIONADOS
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
