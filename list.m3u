@@ -1,36 +1,18 @@
 #EXTM3U
 #EXTINF:-1,AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1,AZTECA -UNO
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,LAS ESTRELLAS MX
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-#EXTINF:-1,LAS ESTRELLAS MX -1HR
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1,LAS ESTRELLAS MX -2HR
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:-1,LAS ESTRELLAS LATAM
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 ,CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 ,CANAL 5
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 ,Maria Vision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 ,AZTECA 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 ,AZTECA 7 3
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 , DISTRITO COMEDIA
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 ,NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 ,NU9VE
-https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-#EXTINF:-1 ,MVS
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,4 GDL
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 #EXTINF:-1,8 MTY
@@ -39,32 +21,16 @@ https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1,UNIVISION
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1,UNIVISION 24/7
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1,FORO TV
-https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1,N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1,N+ MEDIA
-https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
-#EXTINF:-1,N+ GDL
-https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1,A&E HD
 http://190.90.154.73:8080/play/a00o/index.m3u8
-#EXTINF:-1,AMC
-http://190.90.154.73:8080/play/a07m/index.m3u8
 #EXTINF:-1,AMC HD
 http://190.90.154.73:8080/play/a03e/index.m3u8
-#EXTINF:-1,ATV
-http://190.90.154.73:8080/play/a00g/index.m3u8
-#EXTINF:-1,AXN
-http://190.90.154.73:8080/play/a01l/index.m3u8
 #EXTINF:-1,AXN HD
 http://190.90.154.73:8080/play/a00r/index.m3u8
-#EXTINF:-1,Animal Planet
-http://190.90.154.73:8080/play/a07f/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://190.90.154.73:8080/play/a03m/index.m3u8
 #EXTINF:-1,Antena 3
@@ -75,48 +41,26 @@ http://190.90.154.73:8080/play/a08h/index.m3u8
 http://190.90.154.73:8080/play/a08g/index.m3u8
 #EXTINF:-1,CNN International
 http://190.90.154.73:8080/play/a08i/index.m3u8
-#EXTINF:-1,Canal 24 Horas HD
-http://190.90.154.73:8080/play/a095/index.m3u8
-#EXTINF:-1,Canal Institucional
-http://190.90.154.73:8080/play/a077/index.m3u8
-#EXTINF:-1,Canal Institucional HD
-http://190.90.154.73:8080/play/a04q/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://190.90.154.73:8080/play/a09e/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://190.90.154.73:8080/play/a03h/index.m3u8
 #EXTINF:-1,Cartoonito
 http://190.90.154.73:8080/play/a05z/index.m3u8
-#EXTINF:-1,Cinecanal
-http://190.90.154.73:8080/play/a03v/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://190.90.154.73:8080/play/a03d/index.m3u8
-#EXTINF:-1,Cinemax
-http://190.90.154.73:8080/play/a069/index.m3u8
 #EXTINF:-1,Cinemax HD
 http://190.90.154.73:8080/play/a022/index.m3u8
 #EXTINF:-1,City TV
 http://190.90.154.73:8080/play/a08a/index.m3u8
-#EXTINF:-1,Clover
-http://190.90.154.73:8080/play/a06k/index.m3u8
-#EXTINF:-1,Clover HD
-http://190.90.154.73:8080/play/a00x/index.m3u8
-#EXTINF:-1,Conciencia
-http://190.90.154.73:8080/play/a05v/index.m3u8
 #EXTINF:-1,DHE HD
 http://190.90.154.73:8080/play/a098/index.m3u8
 #EXTINF:-1,De PelŦcula
 http://190.90.154.73:8080/play/a084/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://190.90.154.73:8080/play/a07g/index.m3u8
-#EXTINF:-1,Discovery H&H
-http://190.90.154.73:8080/play/a01b/index.m3u8
 #EXTINF:-1,Discovery H&H HD
 http://190.90.154.73:8080/play/a02o/index.m3u8
 #EXTINF:-1,Discovery HD
 http://190.90.154.73:8080/play/a099/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://190.90.154.73:8080/play/a07e/index.m3u8
 #EXTINF:-1,Discovery Kids HD
 http://190.90.154.73:8080/play/a02n/index.m3u8
 #EXTINF:-1,Discovery Science
@@ -125,8 +69,6 @@ http://190.90.154.73:8080/play/a060/index.m3u8
 http://190.90.154.73:8080/play/a02p/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://190.90.154.73:8080/play/a07x/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://190.90.154.73:8080/play/a03c/index.m3u8
 #EXTINF:-1,Disney HD
 http://190.90.154.73:8080/play/a01u/index.m3u8
 #EXTINF:-1,Disney Junior
@@ -165,8 +107,6 @@ http://190.90.154.73:8080/play/a03u/index.m3u8
 http://190.90.154.73:8080/play/a07w/index.m3u8
 #EXTINF:-1,History 2
 http://190.90.154.73:8080/play/a06p/index.m3u8
-#EXTINF:-1,History Channel
-http://190.90.154.73:8080/play/a01a/index.m3u8
 #EXTINF:-1,History Channel HD
 http://190.90.154.73:8080/play/a00n/index.m3u8
 #EXTINF:-1,ID - Investigation Discovery
@@ -237,8 +177,6 @@ http://190.90.154.73:8080/play/a01r/index.m3u8
 http://190.90.154.73:8080/play/a02q/index.m3u8
 #EXTINF:-1,Universal
 http://190.90.154.73:8080/play/a01m/index.m3u8
-#EXTINF:-1,Warner Channel
-http://190.90.154.73:8080/play/a04c/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://190.90.154.73:8080/play/a00q/index.m3u8
 #EXTINF:-1,Win Sports HD
