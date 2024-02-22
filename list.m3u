@@ -25,6 +25,14 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 ,HBO FAMILY
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+#EXTINF:-1 ,HBO FAMILY LAT
+http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+#EXTINF:-1 ,HBO PLUS LAT
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+#EXTINF:-1 ,HBO SIGNATURE LAT
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
 #EXTINF:-1,A&E HD
 http://190.90.154.73:8080/play/a00o/index.m3u8
 #EXTINF:-1,AMC HD
@@ -95,44 +103,20 @@ http://190.90.154.73:8080/play/a08u/index.m3u8
 http://190.90.154.73:8080/play/a071/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://190.90.154.73:8080/play/a01y/index.m3u8
-#EXTINF:-1,France 24
-http://190.90.154.73:8080/play/a03q/index.m3u8
-#EXTINF:-1,GLOBAL
-http://190.90.154.73:8080/play/a00h/index.m3u8
 #EXTINF:-1,Golden
 http://190.90.154.73:8080/play/a065/index.m3u8
 #EXTINF:-1,Golden Edge
 http://190.90.154.73:8080/play/a03u/index.m3u8
-#EXTINF:-1,HGTV
-http://190.90.154.73:8080/play/a07w/index.m3u8
 #EXTINF:-1,History 2
 http://190.90.154.73:8080/play/a06p/index.m3u8
 #EXTINF:-1,History Channel HD
 http://190.90.154.73:8080/play/a00n/index.m3u8
-#EXTINF:-1,ID - Investigation Discovery
-http://190.90.154.73:8080/play/a01n/index.m3u8
 #EXTINF:-1,ID HD
 http://190.90.154.73:8080/play/a024/index.m3u8
-#EXTINF:-1,MTV
-http://190.90.154.73:8080/play/a08f/index.m3u8
-#EXTINF:-1,MTV 00s
-http://190.90.154.73:8080/play/a020/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://190.90.154.73:8080/play/a02r/index.m3u8
-#EXTINF:-1,NTN 24 Horas
-http://190.90.154.73:8080/play/a080/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://190.90.154.73:8080/play/a03b/index.m3u8
 #EXTINF:-1,National Geographic
 http://190.90.154.73:8080/play/a06o/index.m3u8
-#EXTINF:-1,Nick HD
-http://190.90.154.73:8080/play/a010/index.m3u8
-#EXTINF:-1,Nick Jr
-http://190.90.154.73:8080/play/a04d/index.m3u8
-#EXTINF:-1,Nick Music
-http://190.90.154.73:8080/play/a07d/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://190.90.154.73:8080/play/a05y/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://190.90.154.73:8080/play/a00z/index.m3u8
 #EXTINF:-1,STAR TVE
@@ -151,12 +135,6 @@ http://190.90.154.73:8080/play/a00s/index.m3u8
 http://190.90.154.73:8080/play/a083/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://190.90.154.73:8080/play/a03j/index.m3u8
-#EXTINF:-1,Sun Channel
-http://190.90.154.73:8080/play/a082/index.m3u8
-#EXTINF:-1,Sun Channel HD
-http://190.90.154.73:8080/play/a02m/index.m3u8
-#EXTINF:-1,SyFy
-http://190.90.154.73:8080/play/a06z/index.m3u8
 #EXTINF:-1,TLC
 http://190.90.154.73:8080/play/a08e/index.m3u8
 #EXTINF:-1,TNT HD
@@ -167,23 +145,25 @@ http://190.90.154.73:8080/play/a06u/index.m3u8
 http://190.90.154.73:8080/play/a08z/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://190.90.154.73:8080/play/a02w/index.m3u8
-#EXTINF:-1,TRUTV HD
-http://190.90.154.73:8080/play/a025/index.m3u8
-#EXTINF:-1,TV Senado
-http://190.90.154.73:8080/play/a01e/index.m3u8
-#EXTINF:-1,TVN HD
-http://190.90.154.73:8080/play/a01r/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://190.90.154.73:8080/play/a02q/index.m3u8
 #EXTINF:-1,Universal
 http://190.90.154.73:8080/play/a01m/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://190.90.154.73:8080/play/a00q/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://livex.pop-app.live/s4n/poplive/ch558/playlist.m3u8
 #EXTINF:-1,Win Sports HD
 http://190.90.154.73:8080/play/a00w/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://190.90.154.73:8080/play/a03l/index.m3u8
-#EXTINF:-1 , TUDN
+#EXTINF:-1, TUDN
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-#EXTINF:-1 , AFIZZIONADOS
+#EXTINF:-1,FOX SPORT MX
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 2 MX
+http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 3 MX
+http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
+#EXTINF:-1, AFIZZIONADOS
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
