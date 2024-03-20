@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1,ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 ,LAS ESTRELLAS MX
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 ,CANAL 5
@@ -17,43 +13,25 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 #EXTINF:-1 ,8 MTY
 https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+#EXTINF:-1 ,TORREON MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 ,UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 ,UNIVISION
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 ,TELEMUNDO
 http://181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:-1 ,ENTRETENIMIENTO DISTRITO COMEDIA PARA LA RAZA
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 ,BANDAMX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 ,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 ,N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1 ,HBO FAMILY
-http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
-#EXTINF:-1 ,HBO FAMILY LAT
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
-#EXTINF:-1 ,HBO PLUS LAT
-http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
-#EXTINF:-1 ,HBO SIGNATURE LAT
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-#EXTINF:-1 ,Discovery H&H HD
-http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
 #EXTINF:-1 ,TUDN
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-#EXTINF:-1 ,FOX SPORT MX
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-#EXTINF:-1 ,FOX SPORTS 2 MX
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-#EXTINF:-1 ,FOX SPORTS 3 MX
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTINF:-1 ,AFIZZIONADOS
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 ,CLARO SPORTS Mexico
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 ,ESPN 1 Mexico
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/9380
-#EXTINF:-1 ,ESPN 2 Mexico
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/36391
-#EXTINF:-1 ,ESPN 3 Mexico
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/186774
